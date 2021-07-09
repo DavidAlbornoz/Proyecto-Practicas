@@ -10,28 +10,27 @@
 08 Load Product From Backend  
 09 Install ESLint  
 10 Add Redux To Home Screen  
- Add Redux To Product Screen  
- Handle Add To Cart Button  
- Implement Add To Cart  
- Build Cart Screen  
- Implement Remove From Cart  
- Create Sample Users In MongoDB  
- Create Sample Products In MongoDB  
- Create Signin Backend  
- Design Signin Screen  
- Implement Signin Action  
- Create Register Screen  
- Create Shipping Screen  
- Create Payment Screen  
- Design Place Order Screen  
- Create Place Order API  
- Implement Place Order Action  
- Create Order Screen  
- Add PayPal button  
- Implement Order Payment  
- Display Order History  
- Display User Profile  
- Update User Profile  
- Creat Admin View
+11 Add Redux To Product Screen  
+12 Handle Add To Cart Button  
+13 Implement Add To Cart  
+14 Build Cart Screen  
+15 Implement Remove From Cart  
+16 Create Sample Users In MongoDB  
+17 Create Sample Products In MongoDB  
+18 Create Signin Backend  
+19 Design Signin Screen  
+20 Implement Signin Action  
+21 Create Register Screen  
+22 Create Shipping Screen  
+23 Create Payment Screen  
+24 Design Place Order Screen  
+25 Create Place Order API  
+26 Implement Place Order Action  
+27 Create Order Screen  
+28 Add PayPal button  
+29 Implement Order Payment  
+30 Display Order History  
+31 Display User Profile  
+32 Update User Profile  
+33 Creat Admin View
 
-Part 36 and more on Udemy course with 90% Discount: 
